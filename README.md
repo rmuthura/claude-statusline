@@ -54,5 +54,4 @@ claude login
 # Choose "Claude account with subscription"
 ```
 
-## License
-MIT
+
