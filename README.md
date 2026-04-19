@@ -24,13 +24,13 @@ Opus 4.5 │ ctx █░░░░ 30% │ in:50k out:10k │ $1.23 │ 5hr ░░
 
 ### Quick Install
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/claude-statusline/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/rmuthura/claude-statusline/main/install.sh | bash
 ```
 
 ### Manual Install
 ```bash
 # Download the script
-curl -o ~/.claude/statusline.sh https://raw.githubusercontent.com/YOUR_USERNAME/claude-statusline/main/statusline.sh
+curl -o ~/.claude/statusline.sh https://raw.githubusercontent.com/rmuthura/claude-statusline/main/statusline.sh
 chmod +x ~/.claude/statusline.sh
 
 # Add to settings (backup first)

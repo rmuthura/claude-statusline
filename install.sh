@@ -3,7 +3,7 @@
 
 set -e
 
-SCRIPT_URL="https://raw.githubusercontent.com/YOUR_USERNAME/claude-statusline/main/statusline.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/rmuthura/claude-statusline/main/statusline.sh"
 INSTALL_PATH="$HOME/.claude/statusline.sh"
 SETTINGS_PATH="$HOME/.claude/settings.json"
 
