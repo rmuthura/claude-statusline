@@ -1,4 +1,4 @@
-# Claude Code Statusline
+# Claude Code Statusline MAC Only
 
 A custom statusline for Claude Code showing usage limits, context, cost, and git info.
 
